@@ -1,0 +1,3 @@
+注：想要看到实现效果需要提前安装好mongodb，本人使用的是window系统，python开发IDE是pycharm
+如果环境已经配置好的情况下直接将.json文件拖入到跟main.py相同的目录下后运行mian.py即可实现将
+json写入本地mongo数据库
